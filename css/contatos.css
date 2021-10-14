@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    padding-left: 15pt;
+    padding-right: 15pt;
+    margin-bottom: 20px;
+}
+
+.content{
+    margin-top: 15pt;
+}
+
+.header {
+    color: #ee6e73;
+    font-weight: 300;
+}
+
+.field-title {
+    font-weight: 500;
+}
+
+.field-value {
+    color: #616161;
+    font-weight: 300;
+}
+
+#detalhes-contato{
+    margin-top: 20px;
+}
+
+#detalhes-contato ul{
+    margin: 30px 0;
+    border: 1px solid rgb(240, 240, 240);
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#detalhes-contato li{
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+#detalhes-contato li i{
+    background-color: rgb(233, 233, 233);
+    border-radius: 3px;
+    margin: 0 10px;
+}
+
+#detalhes-contato a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhes{
+    margin-left: 10px;
+}
